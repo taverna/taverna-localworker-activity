@@ -23,12 +23,12 @@
 		<dependency>
 			<groupId>net.sf.taverna.t2.activities</groupId>
 			<artifactId>beanshell-activity</artifactId>
-			<version>${project.version}</version>
+			<version>${t2.activities.version}</version>
 		</dependency>
 		<dependency>
 			<groupId>net.sf.taverna.t2.activities</groupId>
 			<artifactId>activity-test-utils</artifactId>
-			<version>${project.version}</version>
+			<version>${t2.activities.version}</version>
 			<scope>test</scope>
 		</dependency>
 		<dependency>

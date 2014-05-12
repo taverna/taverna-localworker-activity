@@ -4,10 +4,11 @@
 	<parent>
 		<groupId>net.sf.taverna.t2</groupId>
 		<artifactId>activities</artifactId>
-		<version>1.5-SNAPSHOT</version>
+		<version>1.5</version>
 	</parent>
 	<groupId>net.sf.taverna.t2.activities</groupId>
 	<artifactId>localworker-activity</artifactId>
+	<version>1.5.1-SNAPSHOT</version>
 	<name>Taverna 2 Localworker Activity</name>
 	<dependencies>
 		<dependency>
@@ -23,7 +24,7 @@
 		<dependency>
 			<groupId>net.sf.taverna.t2.activities</groupId>
 			<artifactId>beanshell-activity</artifactId>
-			<version>${t2.activities.version}</version>
+			<version>1.5.1</version>
 		</dependency>
 		<dependency>
 			<groupId>net.sf.taverna.t2.activities</groupId>
